@@ -1,0 +1,13 @@
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\obj\Debug\netcoreapp3.1\holamundo.csprojAssemblyReference.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache
