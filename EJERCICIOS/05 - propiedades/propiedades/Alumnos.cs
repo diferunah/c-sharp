@@ -11,9 +11,16 @@ public class Alumno
         Id = 1;
     }
 
-    public Alumno(int Id) //constructores con declaracion 
+
+    public Alumno(int id) //constructores con declaracion 
     {
-        Id = Id;
+        Id = id;
+    }
+
+    public Alumno(string primerNombre, string segundoNombre)
+    {
+        PrimerNombre = primerNombre;
+        SegundoNombre = segundoNombre;
     }
 
 }
