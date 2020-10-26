@@ -1,0 +1,13 @@
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\obj\Debug\netcoreapp3.1\propiedades.csprojAssemblyReference.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\obj\Debug\netcoreapp3.1\propiedades.AssemblyInfoInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\obj\Debug\netcoreapp3.1\propiedades.AssemblyInfo.cs
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\obj\Debug\netcoreapp3.1\propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\bin\Debug\netcoreapp3.1\propiedades.exe
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\bin\Debug\netcoreapp3.1\propiedades.deps.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\bin\Debug\netcoreapp3.1\propiedades.runtimeconfig.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\bin\Debug\netcoreapp3.1\propiedades.runtimeconfig.dev.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\bin\Debug\netcoreapp3.1\propiedades.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\bin\Debug\netcoreapp3.1\propiedades.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\obj\Debug\netcoreapp3.1\propiedades.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\obj\Debug\netcoreapp3.1\propiedades.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\05 - propiedades\propiedades\obj\Debug\netcoreapp3.1\propiedades.genruntimeconfig.cache
