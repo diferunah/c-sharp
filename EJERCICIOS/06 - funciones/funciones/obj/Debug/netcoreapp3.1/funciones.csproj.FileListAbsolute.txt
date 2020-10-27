@@ -1,0 +1,13 @@
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\bin\Debug\netcoreapp3.1\funciones.exe
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\bin\Debug\netcoreapp3.1\funciones.deps.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\bin\Debug\netcoreapp3.1\funciones.runtimeconfig.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\bin\Debug\netcoreapp3.1\funciones.runtimeconfig.dev.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\bin\Debug\netcoreapp3.1\funciones.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\bin\Debug\netcoreapp3.1\funciones.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\obj\Debug\netcoreapp3.1\funciones.csprojAssemblyReference.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\obj\Debug\netcoreapp3.1\funciones.AssemblyInfoInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\obj\Debug\netcoreapp3.1\funciones.AssemblyInfo.cs
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\obj\Debug\netcoreapp3.1\funciones.csproj.CoreCompileInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\obj\Debug\netcoreapp3.1\funciones.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\obj\Debug\netcoreapp3.1\funciones.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\06 - funciones\funciones\obj\Debug\netcoreapp3.1\funciones.genruntimeconfig.cache
