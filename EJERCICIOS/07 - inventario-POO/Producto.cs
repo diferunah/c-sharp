@@ -7,7 +7,7 @@ public class Producto
     public Producto(string codigo, string descripcion, int existencia)
     {
         Codigo = codigo;
-        Descripcion = descripcion;                  // Contructor de producto
+        Descripcion = descripcion;                  // Constructor de producto
         Existencia = existencia;
     }
 
