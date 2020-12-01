@@ -1,0 +1,13 @@
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\bin\Debug\netcoreapp3.1\10-ordenes.exe
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\bin\Debug\netcoreapp3.1\10-ordenes.deps.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\bin\Debug\netcoreapp3.1\10-ordenes.runtimeconfig.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\bin\Debug\netcoreapp3.1\10-ordenes.runtimeconfig.dev.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\bin\Debug\netcoreapp3.1\10-ordenes.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\bin\Debug\netcoreapp3.1\10-ordenes.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\obj\Debug\netcoreapp3.1\10-ordenes.csprojAssemblyReference.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\obj\Debug\netcoreapp3.1\10-ordenes.AssemblyInfoInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\obj\Debug\netcoreapp3.1\10-ordenes.AssemblyInfo.cs
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\obj\Debug\netcoreapp3.1\10-ordenes.csproj.CoreCompileInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\obj\Debug\netcoreapp3.1\10-ordenes.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\obj\Debug\netcoreapp3.1\10-ordenes.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\10-ordenes\obj\Debug\netcoreapp3.1\10-ordenes.genruntimeconfig.cache
