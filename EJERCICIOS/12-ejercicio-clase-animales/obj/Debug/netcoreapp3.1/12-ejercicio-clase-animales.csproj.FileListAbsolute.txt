@@ -1,0 +1,13 @@
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\bin\Debug\netcoreapp3.1\12-ejercicio-clase-animales.exe
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\bin\Debug\netcoreapp3.1\12-ejercicio-clase-animales.deps.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\bin\Debug\netcoreapp3.1\12-ejercicio-clase-animales.runtimeconfig.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\bin\Debug\netcoreapp3.1\12-ejercicio-clase-animales.runtimeconfig.dev.json
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\bin\Debug\netcoreapp3.1\12-ejercicio-clase-animales.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\bin\Debug\netcoreapp3.1\12-ejercicio-clase-animales.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\obj\Debug\netcoreapp3.1\12-ejercicio-clase-animales.csprojAssemblyReference.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\obj\Debug\netcoreapp3.1\12-ejercicio-clase-animales.AssemblyInfoInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\obj\Debug\netcoreapp3.1\12-ejercicio-clase-animales.AssemblyInfo.cs
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\obj\Debug\netcoreapp3.1\12-ejercicio-clase-animales.csproj.CoreCompileInputs.cache
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\obj\Debug\netcoreapp3.1\12-ejercicio-clase-animales.dll
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\obj\Debug\netcoreapp3.1\12-ejercicio-clase-animales.pdb
+C:\Users\Difer\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 2\C-SHARP\EJERCICIOS\c-sharp\EJERCICIOS\12-ejercicio-clase-animales\obj\Debug\netcoreapp3.1\12-ejercicio-clase-animales.genruntimeconfig.cache
